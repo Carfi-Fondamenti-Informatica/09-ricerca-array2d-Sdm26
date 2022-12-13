@@ -1,4 +1,7 @@
-ifndef ES9_LIB_H
+#ifndef ES9_LIB_H
 #define ES9_LIB_H
-bool prod(char,int ,char );
-#endif
+
+bool cerca(char [10][20], int &, char[]);
+
+
+#endif 
